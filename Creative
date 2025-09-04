@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Creative Projects — Alexa Buermeyer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="container">
+    <h1 class="logo"><a href="index.html">Alexa Buermeyer</a></h1>
+  </div></header>
+
+  <main class="container">
+    <article>
+      <h1>Creative Projects</h1>
+      <p>I've always been a creative person, appreciating art and its ability to express emotions and experiences. Scroll down to see some of my personal work including posters, album covers, travel montages, sketches/paintings and more!</p>
+
+      <section class="gallery">
+        <img src="https://via.placeholder.com/1200x800?text=Poster+1" alt="poster1">
+        <img src="https://via.placeholder.com/1200x800?text=Album+Cover+1" alt="album">
+        <img src="https://via.placeholder.com/1200x800?text=Sketch+1" alt="sketch">
+        <img src="https://via.placeholder.com/1200x800?text=Painting+1" alt="painting">
+      </section>
+
+      <a class="backlink" href="index.html">← Back to Work</a>
+    </article>
+  </main>
+
+  <footer class="site-footer"><div class="container">Replica — original content from portfolio</div></footer>
+</body>
+</html>

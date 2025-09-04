@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LinkedIn x HubSpot — Alexa Buermeyer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header"><div class="container">
+    <h1 class="logo"><a href="index.html">Alexa Buermeyer</a></h1>
+  </div></header>
+
+  <main class="container">
+    <article>
+      <h1>LinkedIn x HubSpot</h1>
+      <p>As a LinkedIn and HubSpot Ambassador, I managed a marketing campaign for Northwest Premier Event Staffing, a small business with no prior marketing experience. I wrote ad copy and designed graphics using Adobe Illustrator, Photoshop, and Canva. After researching and collaborating with industry experts and consulting with the CEO, we optimized multiple lead generation and single-image ads.</p>
+      <p>Using LinkedIn Campaign Manager and HubSpot, I tracked KPIs, ran A/B tests, and refined the strategy, resulting in numerous leads and CTRs as high as 1.29%.</p>
+
+      <section class="gallery">
+        <img src="https://via.placeholder.com/1200x800?text=LinkedIn+asset+1" alt="campaign">
+        <img src="https://via.placeholder.com/1200x800?text=LinkedIn+asset+2" alt="campaign">
+        <img src="https://via.placeholder.com/1200x800?text=LinkedIn+asset+3" alt="campaign">
+      </section>
+
+      <a class="backlink" href="index.html">← Back to Work</a>
+    </article>
+  </main>
+
+  <footer class="site-footer"><div class="container">Replica — original content from portfolio</div></footer>
+</body>
+</html>

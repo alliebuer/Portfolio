@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Allie B — Portfolio (replica)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo"><a href="index.html">Alexa Buermeyer</a></h1>
+      <nav class="nav">
+        <a href="iridium.html">Iridium Communications</a>
+        <a href="linkedin.html">LinkedIn x HubSpot</a>
+        <a href="photography.html">Photography</a>
+        <a href="creative.html">Creative Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="grid">
+      <article class="card">
+        <a href="iridium.html" class="thumb">
+          <img src="https://cdn.myportfolio.com/5b64e50d-3612-4dd4-b533-83310d0af766/930b479f-90cf-4f20-8bb4-e9a692b64d43_rw_1200.jpg?h=a5fbedc86f68b23dc816545b204a000d" alt="Iridium — Dive In">
+        </a>
+        <h2><a href="iridium.html">Iridium Communications — 2025</a></h2>
+        <p>Creative content development, video editing, and social media campaign work for Iridium.</p>
+      </article>
+
+      <article class="card">
+        <a href="linkedin.html" class="thumb">
+          <img src="https://via.placeholder.com/1200x800?text=LinkedIn+x+HubSpot" alt="LinkedIn x HubSpot">
+        </a>
+        <h2><a href="linkedin.html">LinkedIn x HubSpot — 2025</a></h2>
+        <p>Ambassador work: ad copy, design, campaign tracking and A/B testing that drove leads.</p>
+      </article>
+
+      <article class="card">
+        <a href="photography.html" class="thumb">
+          <img src="https://via.placeholder.com/1200x800?text=Photography" alt="Photography">
+        </a>
+        <h2><a href="photography.html">Photography — 2025</a></h2>
+        <p>Personal photography pieces and editorial imagery.</p>
+      </article>
+
+      <article class="card">
+        <a href="creative.html" class="thumb">
+          <img src="https://via.placeholder.com/1200x800?text=Creative+Projects" alt="Creative Projects">
+        </a>
+        <h2><a href="creative.html">Creative Projects — 2023</a></h2>
+        <p>Posters, album covers, travel montages, sketches, and more.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Powered by static replica • Original portfolio: allieb20.myportfolio.com</p>
+    </div>
+  </footer>
+
+</body>
+</html>

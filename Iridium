@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Iridium Communications — Alexa Buermeyer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo"><a href="index.html">Alexa Buermeyer</a></h1>
+      <nav class="nav">
+        <a href="index.html">Work</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article>
+      <h1>Iridium Communications</h1>
+
+      <div class="project-hero">
+        <img src="https://cdn.myportfolio.com/5b64e50d-3612-4dd4-b533-83310d0af766/930b479f-90cf-4f20-8bb4-e9a692b64d43_rw_1200.jpg?h=a5fbedc86f68b23dc816545b204a000d" alt="Iridium - Dive In">
+        <div class="project-content">
+          <p>During my internship at Iridium Communications, I strengthened my creative content development skills, editing videos and designing graphics. I gained hands-on experience with the marketing lifecycle from researching ad campaigns, audience segmentation, media creation and writing copy, to publishing and tracking leads.</p>
+
+          <h3>'Get Lost!' Campaign</h3>
+          <p>The 'Get Lost' Campaign's goal was to encourage people to explore nature and stay safe using Iridium's satellite devices. I developed the initial template along with copy, then used it to create remaining graphics, collaborating closely with the head designer and incorporating team feedback. The ads were prepared over the course of one month and were published on Instagram and LinkedIn over the following three to four months.</p>
+
+          <h3>Behind the Network</h3>
+          <p>For the 'Behind The Network' series, I interviewed Ankita to showcase what it's like to be an Iridium employee. I set up an interview, scripted and filmed a summary of her experience, then edited the final video using Adobe Premiere Pro. From start to finish, the project took about one month.</p>
+
+          <a class="backlink" href="index.html">← Back to Work</a>
+        </div>
+      </div>
+
+      <section class="gallery">
+        <!-- additional images from your portfolio (if available) -->
+        <img src="https://cdn.myportfolio.com/5b64e50d-3612-4dd4-b533-83310d0af766/768683cd-4fd0-49f9-a1aa-fb537c0c146e_rw_1200.jpg?h=6c0c0fb5cb123a573b6707ba16797dd8" alt="Iridium sample">
+        <img src="https://via.placeholder.com/1200x800?text=Iridium+asset+3" alt="placeholder">
+        <img src="https://via.placeholder.com/1200x800?text=Iridium+asset+4" alt="placeholder">
+      </section>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Replica site — content pulled from allieb20.myportfolio.com</p>
+    </div>
+  </footer>
+</body>
+</html>
